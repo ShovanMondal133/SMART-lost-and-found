@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/items";
+const API_URL = "https://smart-lost-and-found-3.onrender.com/api/items";
 
 // Get all items
 export async function getItems() {
